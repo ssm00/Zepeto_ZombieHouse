@@ -1,5 +1,9 @@
 
 # 2023 Zepeto world jam (ZombieHouse)
+### 2023 Zepeto world jam Best technical implementation prize 수상
+<img width="640" alt="prize_1" src="https://github.com/ssm00/Zepeto_ZombieHouse/assets/97657265/1d71b9d6-4d77-440f-af6c-b05fa13f9646">
+
+
 ### Mulitplay game (5 player)
 
 - Client-Server-model
