@@ -20,11 +20,11 @@
 ### Screen Shot 플레이 사진
 <img width="310" alt="ZombieHouse" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/6e3aa24b-36b4-4fc0-95ce-bcba002914ff">
 <br></br>
-<img width="640" alt="4" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/897f450a-1c49-404e-a0a1-5d9394ff7209">
-<img width="640" alt="2" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/6b2e0f94-24be-4325-b85d-253fa2b9a1dc">
-<img width="640" alt="6" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/84001ccc-bf16-4d0c-bea5-3650724daa22">
+<img width="640" alt="4" src="https://github.com/user-attachments/assets/b92969b7-1ba3-4be5-84f7-3edb431b3e25">
 <img width="640" alt="7" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/236f9911-6c75-421e-8ce0-56c01f55b425">
 <img width="640" alt="8" src="https://github.com/ssm00/Zepeto_v10/assets/97657265/84c94c39-34c5-4b19-ab67-bb1a01da8e47">
+<img width="640" alt="8" src="https://github.com/user-attachments/assets/d34e40a6-bdd4-4eac-9c7b-8e9a093c759a">
+<img width="640" alt="8" src="https://github.com/user-attachments/assets/d9413331-1259-412d-a6ee-1af65b638b88">
 
 <br></br>
 ## Member
